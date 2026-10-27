@@ -1,0 +1,211 @@
+text,label,scam_type,lang
+"This is Inspector Rajesh from Mumbai Crime Branch. A FedEx parcel in your name with 5 fake passports and MDMA drugs was seized. Join the video call now for your statement or an arrest warrant will be issued.",scam,digital_arrest,en
+"Sir your Aadhaar is linked to a money laundering case registered with CBI. You are under digital arrest. Stay on this Skype call and do not tell anyone in your family.",scam,digital_arrest,en
+"Customs department: your international courier contains illegal items. To avoid FIR please speak to our narcotics officer on video call immediately.",scam,digital_arrest,en
+"Aapke naam se ek parcel pakda gaya hai jisme drugs mile hain. CBI officer se video call pe baat karo warna giraftaar ho jaoge. Kisi ko mat batana.",scam,digital_arrest,hinglish
+"आपके आधार कार्ड का इस्तेमाल मनी लॉन्ड्रिंग में हुआ है। सीबीआई ने केस दर्ज किया है। वीडियो कॉल पर बने रहें, वरना गिरफ्तार किया जाएगा।",scam,digital_arrest,hi
+"To prove your innocence you must transfer your savings to an RBI supervisory account for verification. The money will be returned after investigation.",scam,digital_arrest,en
+"Delhi Police cyber cell here. Your SIM was used in a human trafficking case. Keep your camera on and do not disconnect until the senior officer verifies you.",scam,digital_arrest,en
+"Your bank account is under investigation by Enforcement Directorate. Transfer all funds to the safe account given by the officer to verify your funds. Keep this confidential.",scam,digital_arrest,en
+"Mumbai Police: case filed against your number for illegal advertisements. Press 1 to talk to the investigating officer or face legal action today.",scam,digital_arrest,en
+"Supreme Court notice: arrest warrant issued in your name in money laundering case. Pay security deposit of Rs 2,50,000 to the verification account to avoid jail.",scam,digital_arrest,en
+"Sir aapka parcel Taiwan bheja gaya tha usme illegal passports mile hain. Narcotics department se baat karne ke liye Skype join kariye abhi.",scam,digital_arrest,hinglish
+"मैं मुंबई पुलिस से बोल रहा हूं। आपके नाम से ड्रग्स वाला पार्सल मिला है। किसी को मत बताना और वीडियो कॉल पर रहिए।",scam,digital_arrest,hi
+"This is TRAI. Your mobile number will be disconnected within 2 hours due to illegal activity. Press 9 to speak to customer care.",scam,trai_telecom,en
+"Dear customer your SIM card will be blocked today as your KYC is incomplete as per TRAI guidelines. Call 9123456780 immediately.",scam,trai_telecom,en
+"Department of Telecommunications: all services on your number will be suspended in 2 hours. A complaint has been registered against your number. Press 1 for details.",scam,trai_telecom,en
+"Aapka mobile number 2 ghante mein band ho jayega. TRAI se baat karne ke liye 9 dabayein.",scam,trai_telecom,hinglish
+"ट्राई की ओर से सूचना: आपका सिम कार्ड आज रात बंद हो जाएगा। अधिक जानकारी के लिए 9 दबाएं।",scam,trai_telecom,hi
+"Mobile tower installation on your land. Earn Rs 35,000 monthly rent plus Rs 25 lakh advance. Pay registration fee of Rs 5,100 to get TRAI approval letter.",scam,trai_telecom,en
+"Your number has been reported for sending spam. As per TRAI it shall be barred tonight. Press 0 to talk to the officer.",scam,trai_telecom,en
+"Jio tower lagwaye apni chhat par. 30000 monthly kiraya. Registration charges 2500 pay karein abhi.",scam,trai_telecom,hinglish
+"I have sent Rs 5000 for the sofa. Please accept the payment request and enter your UPI PIN to receive the money.",scam,upi_collect_qr,en
+"Sir I am posted in army, transferred to Pune, want to buy your bike from OLX. I will pay full by UPI, just scan this QR code to receive the advance.",scam,upi_collect_qr,en
+"Your refund of Rs 1,499 is ready. Scan the QR code below to get the refund credited to your account.",scam,upi_collect_qr,en
+"Bhai galti se aapke account me 10000 transfer ho gaye. Please wapas bhej do, request bheji hai accept kar do.",scam,upi_collect_qr,hinglish
+"Hello I wrongly transferred Rs 8,000 to your number. Please return the extra money to rahul.verma@ybl urgently, my mother is in hospital.",scam,upi_collect_qr,en
+"To get your cashback of Rs 2000 approve the collect request in your PhonePe app and put your pin.",scam,upi_collect_qr,en
+"पैसे पाने के लिए अपना यूपीआई पिन डालें। रिफंड तुरंत आपके खाते में आ जाएगा।",scam,upi_collect_qr,hi
+"I am CRPF officer, transfer ho gaya hai, furniture sell karna hai urgent. Advance ke liye QR scan karo, payment aa jayega.",scam,upi_collect_qr,hinglish
+"Payment of Rs 15,000 sent by mistake to you. Kindly approve the payment request from my side to return the amount.",scam,upi_collect_qr,en
+"Enter your PIN to receive Rs 4,999 prize money from the PhonePe lucky draw.",scam,upi_collect_qr,en
+"Join our VIP stock tips WhatsApp group. Guaranteed 30% returns every month. Our SEBI registered experts give daily calls.",scam,investment,en
+"Congratulations! You have been selected for our institutional account. Download the trading app from this link and get IPO allotment with 200% profit.",scam,investment,en
+"Earn 5% daily profit on USDT crypto trading. Minimum investment Rs 10,000. Withdraw anytime. Contact on Telegram.",scam,investment,en
+"Double your money in 15 days. Risk-free investment plan. Join now, only 20 seats left.",scam,investment,en
+"Your profit of Rs 4,80,000 is ready but to withdraw you must first pay 18% tax and service fee.",scam,investment,en
+"Premium stock market group join karo, pakka 10% daily profit. Link: chat.whatsapp.com/Kx9TzQ",scam,investment,hinglish
+"शेयर बाजार में गारंटी के साथ मुनाफा। हमारे वीआईपी ग्रुप से जुड़ें और रोज़ कमाएं।",scam,investment,hi
+"Professor Sharma's block trade programme: insider tips with assured returns. Register on our investment platform via the link below.",scam,investment,en
+"Bitcoin forex trading se 3 lakh profit kamao ek mahine mein. Invest karo aur roz returns pao.",scam,investment,hinglish
+"Hello! We are hiring for part-time job. Just like YouTube videos and earn Rs 150 per like. Earn Rs 3000 daily from home. Contact HR manager on WhatsApp.",scam,task_job,en
+"Work from home and earn Rs 5,000 daily by rating hotels on Google. No experience needed. Join our Telegram for tasks.",scam,task_job,en
+"You have completed 3 tasks. To unlock the next merchant task with 30% commission, deposit Rs 10,000 as prepaid task.",scam,task_job,en
+"Congrats you are shortlisted for an online part-time job with Amazon. Daily salary Rs 2000-8000. Message our HR team on WhatsApp.",scam,task_job,en
+"Ghar baithe kamaye 1000-5000 rupaye roz. Simple online task hai, sirf product review karna hai. Telegram join karein.",scam,task_job,hinglish
+"घर बैठे काम करें और रोज़ 3000 रुपये कमाएं। सिर्फ वीडियो लाइक करने हैं।",scam,task_job,hi
+"Job offer for data entry. Pay refundable registration fee of Rs 1,500 to receive your joining letter.",scam,task_job,en
+"Earn Rs 800 per task. Rate restaurants and get paid instantly. 100% genuine part time work.",scam,task_job,en
+"Your account has a pending commission of Rs 25,000. Complete the next prepaid task of Rs 15,000 to withdraw.",scam,task_job,en
+"Aapko part time job ke liye select kiya gaya hai. Joining fee 999 pay karke kaam shuru karein.",scam,task_job,hinglish
+"Your vehicle has a pending traffic challan of Rs 500. Download the RTO challan app to pay: rto-echallan.apk",scam,malicious_app,en
+"PM Kisan new installment released. Install the PM Kisan app from this link to update your details: pmkisan-update.online/app.apk",scam,malicious_app,en
+"Please download AnyDesk and share the 9 digit code so our support executive can process your refund.",scam,malicious_app,en
+"You are invited to our wedding. Open the wedding invitation card: Shaadi_Card.apk",scam,malicious_app,en
+"SBI YONO points expiring today. Install the reward app to redeem: sbi-reward.apk",scam,malicious_app,en
+"Sir aapka refund process karne ke liye Team Viewer install kariye aur screen share kariye.",scam,malicious_app,hinglish
+"आपका बिजली बिल अपडेट करने के लिए यह ऐप इंस्टॉल करें: bijli-update.apk",scam,malicious_app,hi
+"Your Airtel account needs a security update. Download the app from this link below to avoid suspension.",scam,malicious_app,en
+"Customer care here. For your failed transaction refund please install Quick Support app and share your screen.",scam,malicious_app,en
+"E-challan generated for over-speeding. Click to pay or download: echallan-parivahan.top/pay",scam,malicious_app,en
+"Dear SBI customer, your YONO account will be blocked today. Update your PAN immediately: sbi-kyc-update.xyz",scam,kyc_phishing,en
+"HDFC Bank: Your KYC is pending. Your account will be suspended in 24 hours. Click hdfcbnk-kyc.com to update.",scam,kyc_phishing,en
+"Your debit card has been blocked due to suspicious activity. Share the OTP sent to your phone to unblock it.",scam,kyc_phishing,en
+"I am calling from your bank. Please tell me the OTP you just received to complete your KYC verification.",scam,kyc_phishing,en
+"Your ICICI reward points worth Rs 7,850 will expire today. Redeem now: bit.ly/icici-rwd",scam,kyc_phishing,en
+"Aapka bank account aaj band ho jayega. KYC update karne ke liye link pe click karein aur OTP batayein.",scam,kyc_phishing,hinglish
+"प्रिय ग्राहक, आपका खाता बंद कर दिया जाएगा। केवाईसी अपडेट करने के लिए लिंक पर क्लिक करें।",scam,kyc_phishing,hi
+"Paytm KYC expired. Your wallet will be deactivated. Call our customer care executive at 8001234567 to complete e-KYC.",scam,kyc_phishing,en
+"Income tax refund of Rs 15,490 approved. Verify your card details here to receive: incometax-refund.info",scam,kyc_phishing,en
+"Your net banking will be disabled. Verify your account now at axis-secure-login.com",scam,kyc_phishing,en
+"Dear consumer, your electricity power will be disconnected tonight at 9:30 pm because your previous month bill was not updated. Please contact electricity officer 9876501234 immediately.",scam,utility_bill,en
+"Bijli connection aaj raat kat jayega. Bill update nahi hua hai. Turant is number pe call karein.",scam,utility_bill,hinglish
+"प्रिय उपभोक्ता, आज रात 9:30 बजे आपकी बिजली काट दी जाएगी। तुरंत बिजली अधिकारी से संपर्क करें।",scam,utility_bill,hi
+"BSES: Your light will be cut today. Last month bill not updated. WhatsApp our officer to avoid disconnection.",scam,utility_bill,en
+"Dear customer your electricity connection shall be disconnected tonight. Pay pending amount through this link to avoid.",scam,utility_bill,en
+"Your power supply will be cut within 2 hours. Electricity department officer number 9000012345.",scam,utility_bill,en
+"Congratulations! You have won Rs 25,00,000 in KBC lucky draw. Contact Rana Pratap Singh on WhatsApp to claim your prize. Pay processing fee of Rs 12,500.",scam,lottery_prize,en
+"You've won an iPhone 17 in the Flipkart anniversary lucky draw. Pay Rs 499 delivery charges to claim.",scam,lottery_prize,en
+"Aapne 25 lakh ki lottery jeeti hai. Prize money paane ke liye GST 18000 jama karein.",scam,lottery_prize,hinglish
+"बधाई हो! आपने कौन बनेगा करोड़पति लॉटरी में 25 लाख का इनाम जीता है।",scam,lottery_prize,hi
+"Your mobile number won the bumper prize of Tata Safari. Claim your reward by paying clearance tax.",scam,lottery_prize,en
+"Jackpot winner! Your email has been selected for USD 850,000. Send your bank details to release the funds.",scam,lottery_prize,en
+"Pre-approved instant personal loan of Rs 5,00,000. No CIBIL check. Pay processing fee of Rs 2,999 to get disbursal.",scam,loan_app,en
+"Loan approved without CIBIL in 5 minutes. Download our app and pay small processing charges.",scam,loan_app,en
+"Aapka 3 lakh ka loan sanctioned hai. Processing fee 1500 bhejiye aur paisa turant account me.",scam,loan_app,hinglish
+"बिना सिबिल के तुरंत लोन। सिर्फ प्रोसेसिंग फीस भरें।",scam,loan_app,hi
+"Low CIBIL? Get guaranteed loan today. Insurance and file charges Rs 4,500 refundable.",scam,loan_app,en
+"Hi Mummy, this is my new number, my phone is broken. Please save it. I need to pay a bill urgently, can you send Rs 15,000?",scam,impersonation,en
+"Hello papa naya number hai mera, purana kho gaya. Ek emergency hai, abhi 20000 bhej do please.",scam,impersonation,hinglish
+"Hey it's Ankit. I am stuck at the airport, card not working. Please transfer Rs 12,000 urgently, will return tomorrow.",scam,impersonation,en
+"I met with an accident and I am in hospital. Need money urgently for treatment, please send to this UPI.",scam,impersonation,en
+"Beta main tumhara mama bol raha hoon, naya number save kar lo. Thoda paise ki zaroorat hai jaldi.",scam,impersonation,hinglish
+"Dear friend, my old number is not working. This is my new number. Can you help me with Rs 5,000 asap?",scam,impersonation,en
+"Your OTP for login to SBI YONO is 482913. Do not share this OTP with anyone. SBI never asks for OTP.",legit,none,en
+"483920 is your one time password for HDFC Bank NetBanking. Valid for 5 mins. Do not share this OTP with anyone.",legit,none,en
+"Rs 2,500.00 debited from A/c XX1234 on 27-10-26 to VPA swiggy@icici. Not you? Call 18002586161 to report. -Axis Bank",legit,none,en
+"Your Amazon order #405-1234567 has been shipped and will arrive by Thursday. Track at amazon.in/orders",legit,none,en
+"Your Swiggy order is out for delivery. Your delivery partner Ravi will reach in 10 minutes.",legit,none,en
+"Rs 1,200 credited to your A/c XX5678 by UPI from PRIYA S on 26-10-26. Avl Bal Rs 15,430. -SBI",legit,none,en
+"Hi beta, dinner pe kya banana hai? Papa 8 baje tak aa jayenge.",legit,none,hinglish
+"Meeting moved to 4 pm tomorrow. Please bring the project report.",legit,none,en
+"Dear customer, your electricity bill of Rs 1,845 for Oct 2026 is generated. Due date 10-11-2026. Pay via official app or website. -TPDDL",legit,none,en
+"Your Jio prepaid plan expires on 30-10-2026. Recharge on the MyJio app or jio.com to continue services.",legit,none,en
+"Reminder: your appointment with Dr. Mehta is on Friday at 11 am. Reply C to confirm.",legit,none,en
+"Thank you for applying to the Data Scientist role at Zomato. Our recruiter will contact you to schedule an interview.",legit,none,en
+"Hi Ketan, we'd like to invite you for a technical interview on Nov 3 at 2 pm via Google Meet. Please confirm your availability.",legit,none,en
+"Your IRCTC ticket PNR 4512367890 is confirmed. Train 12951 departs at 16:55 from NDLS. Coach B2 Seat 34.",legit,none,en
+"Kal college band hai, exam postpone ho gaya. Sab ko bata dena.",legit,none,hinglish
+"Reminder: Your SIP of Rs 5,000 in Parag Parikh Flexi Cap Fund will be debited on 05-Nov. -Groww",legit,none,en
+"Happy birthday bhai! Party kab de raha hai?",legit,none,hinglish
+"Your Uber trip receipt: Rs 312 for the ride from Lajpat Nagar to Connaught Place.",legit,none,en
+"माँ, मैं ठीक से पहुंच गया हूं। कल फोन करूंगा।",legit,none,hi
+"आपका बिजली बिल 1,320 रुपये है। अंतिम तिथि 12 नवंबर। भुगतान आधिकारिक ऐप से करें।",legit,none,hi
+"Cyber Dost tip: never share your OTP or UPI PIN with anyone. Report fraud on 1930 or cybercrime.gov.in.",legit,none,en
+"RBI says: Banks never ask for your PIN, OTP or password. Be aware, be safe.",legit,none,en
+"Your Flipkart refund of Rs 899 has been credited to your original payment method. It may take 3-5 days to reflect.",legit,none,en
+"Your Paytm wallet KYC is valid till 2027. No action needed.",legit,none,en
+"PhonePe: You received Rs 500 from Amit Kumar. Check your balance in the app.",legit,none,en
+"The library will remain closed on Saturday for maintenance.",legit,none,en
+"Can you send me the notes for the machine learning lecture?",legit,none,en
+"Team lunch at 1 pm today, everyone please join.",legit,none,en
+"Your Zerodha account statement for October is ready. Login to console.zerodha.com to view.",legit,none,en
+"Dear customer, scheduled maintenance: NetBanking will be unavailable on Sunday 2 am to 6 am. -ICICI Bank",legit,none,en
+"Bhaiya aaj gym chalein shaam ko?",legit,none,hinglish
+"Your Airtel bill of Rs 599 is due on 5th Nov. Pay on Airtel Thanks app.",legit,none,en
+"Delhi Traffic Police: Drive safe, wear helmet, follow lane discipline.",legit,none,en
+"Your LIC premium of Rs 12,450 is due on 15-11-2026. Pay at licindia.in or nearest branch.",legit,none,en
+"Tomorrow's ML workshop starts at 10 am in Room 204. Bring your laptop.",legit,none,en
+"Hey, I've sent you the money for the movie tickets on GPay.",legit,none,en
+"Your Aadhaar was used for authentication on 26-10-2026 at 14:32. If not you, lock biometrics at uidai.gov.in -UIDAI",legit,none,en
+"Your Blinkit order has been delivered. Rate your experience!",legit,none,en
+"Interview shortlist: You have been shortlisted for the ML Engineer role. HR will email you the assessment link from careers@infosys.com.",legit,none,en
+"Mummy aaj main late aaunga, khana rakh dena.",legit,none,hinglish
+"मीटिंग कल सुबह 10 बजे है। सभी समय पर आएं।",legit,none,hi
+"Your PAN-Aadhaar link status: Linked. -Income Tax Department",legit,none,en
+"Your credit card statement for Oct is generated. Total due Rs 8,420. Due date 12-Nov. -HDFC Bank",legit,none,en
+"Congratulations on your new job! Let's celebrate this weekend.",legit,none,en
+"Your Ola ride with driver Suresh is arriving in 3 mins. OTP for ride is 4821.",legit,none,en
+"Hi, is the bike still available? I'd like to see it this Sunday.",legit,none,en
+"Your Netflix payment failed. Update your payment method in the Netflix app.",legit,none,en
+"Nani ki tabiyat theek hai, chinta mat karna.",legit,none,hinglish
+"Lab assignment due date extended to Friday.",legit,none,en
+"Your order from Zomato is being prepared. Estimated delivery 35 mins.",legit,none,en
+"Your mutual fund units have been allotted. NAV Rs 45.32. -Kuvera",legit,none,en
+"Bhai notes bhej de DBMS ke, kal exam hai.",legit,none,hinglish
+"Payment received. Thank you for shopping at Big Bazaar.",legit,none,en
+"Your Google Pay transaction of Rs 250 to Chai Point was successful.",legit,none,en
+"Diwali ki chhutti 31 Oct se 3 Nov tak rahegi.",legit,none,hinglish
+"Delivery attempt failed for your India Post parcel. It will be reattempted tomorrow. Track at indiapost.gov.in",legit,none,en
+"Your EPF passbook has been updated. Login at epfindia.gov.in to view.",legit,none,en
+"Please carry your college ID card to the placement drive tomorrow.",legit,none,en
+"Your DTH subscription renews on 1 Nov. -Tata Play",legit,none,en
+"Your ticket for Coldplay has been confirmed. Enjoy the show!",legit,none,en
+"Sir please check the attached invoice for October.",legit,none,en
+"SBI alert: Fraudsters may call pretending to be bank staff. SBI never asks for OTP, PIN or CVV. Stay alert.",legit,none,en
+Mumbai Police advisory: beware of fake loan apps. Report cyber fraud on 1930.,legit,none,en
+"Bengaluru City Police: Festival season, please do not leave your house unlocked and inform neighbours when travelling.",legit,none,en
+"Cyber Dost: If someone claims to be police on a video call, it is a fraud. Report on 1930.",legit,none,en
+"TRAI: To stop pesky calls, activate DND through your operator app or by sending START 0 to 1909.",legit,none,en
+Department of Telecommunications: check how many SIMs are registered in your name on the Sanchar Saathi portal.,legit,none,en
+HDFC Bank: Be aware of fake customer care numbers on search engines. Use only numbers on hdfcbank.com.,legit,none,en
+"NPCI tip: UPI PIN is needed only to send money, never to receive. Stay safe.",legit,none,en
+"Customs notice at airport: duty-free allowance is Rs 50,000 per passenger.",legit,none,en
+Delhi Police helpline 112 is available 24x7 for emergencies.,legit,none,en
+Congratulations! You won first prize in the inter-college quiz. The trophy will be given at the annual function.,legit,none,en
+You have won the best project award at the hackathon. Well done team!,legit,none,en
+Congrats! Your Swiggy One membership gives you free delivery this month.,legit,none,en
+"Yay, we won the cricket match yesterday! Party tonight.",legit,none,en
+"Your scratch card on Google Pay won you Rs 11 cashback, credited to your bank.",legit,none,en
+"Your home loan EMI of Rs 18,250 will be debited on 5 Nov. Maintain balance. -SBI",legit,none,en
+Your personal loan application has been received. Our branch officer will verify documents in person. -Bank of Baroda,legit,none,en
+Contract note for trades executed today has been sent to your registered email. -Upstox,legit,none,en
+Your IPO application for Tata Tech has been submitted through ASBA. Allotment status on 30 Oct.,legit,none,en
+Market update from your broker: Nifty closed 0.4% higher today. This is not investment advice.,legit,none,en
+Your KYC with Groww is verified. You can now start investing.,legit,none,en
+Please visit your home branch with Aadhaar and PAN to complete periodic KYC re-verification. -Punjab National Bank,legit,none,en
+"Rs 12,000 credited to your account XX4321 towards salary for Oct. -ICICI Bank",legit,none,en
+"Your card ending 4421 was used for Rs 799 at Netflix. If not done by you, block it in the iMobile app.",legit,none,en
+We received your application for Data Analyst at Deloitte. Our team will review it and get back within 2 weeks.,legit,none,en
+Your coding assessment for Flipkart is scheduled on 2 Nov. The link has been sent to your email from flipkart.com.,legit,none,en
+Campus placement: TCS NQT registration closes on 5 Nov. Register on the official TCS iON portal.,legit,none,en
+"Hi, I'm a recruiter at Razorpay. Your profile looks great for our ML intern role. Can we schedule a call?",legit,none,en
+Your Tata Power-DDL bill has been paid successfully. Receipt no 783421.,legit,none,en
+Planned power shutdown in your area on Sunday 10 am to 2 pm for maintenance. -BSES Rajdhani,legit,none,en
+Your Airtel number will be charged Rs 299 for the monthly plan on renewal date.,legit,none,en
+Your FedEx shipment 7789 4512 is out for delivery today.,legit,none,en
+Your parcel from DTDC has reached the Delhi hub.,legit,none,en
+Your Vi postpaid bill is generated. Pay via the Vi app before the due date.,legit,none,en
+"बेटा, आज शाम को मंदिर चलेंगे। तैयार रहना।",legit,none,hi
+"भैया, कल की मीटिंग कैंसिल हो गई है।",legit,none,hi
+"दादी की दवाई ले आना, पैसे मेज़ पर रखे हैं।",legit,none,hi
+Yaar kal movie chalein? Tickets main book kar deta hoon.,legit,none,hinglish
+"Maine tujhe 500 bhej diye GPay pe, check kar le.",legit,none,hinglish
+"Didi, mummy bol rahi hai jaldi ghar aa jao, guests aa rahe hain.",legit,none,hinglish
+"Mera phone charge pe hai, thodi der me call karta hoon.",legit,none,hinglish
+"Bhai urgent hai, notes bhej de jaldi, exam 10 baje hai.",legit,none,hinglish
+"Sir, kindly approve my leave application for Friday.",legit,none,en
+"Please transfer the society maintenance of Rs 2,500 to the society account by 10th as usual.",legit,none,en
+"Hey, can you pay me back the 300 for lunch when you get time?",legit,none,en
+Your FedEx package is on hold due to illegal content. Press 1 to speak to the Mumbai cyber crime officer.,scam,digital_arrest,en
+"Dear customer, an FIR has been registered against your Aadhaar. Connect to the investigation officer on WhatsApp video call now.",scam,digital_arrest,en
+Your number will be blocked by TRAI for misuse. Talk to the cyber police officer now by pressing 9.,scam,trai_telecom,en
+I have paid you through UPI but it is showing pending. Please accept the request and put your PIN to receive.,scam,upi_collect_qr,en
+Join our premium Telegram channel for sure-shot intraday calls with guaranteed profits.,scam,investment,en
+Earn extra income: follow Instagram pages and get Rs 50 per follow. Daily payout via UPI. Contact HR on Telegram.,scam,task_job,en
+Your Aadhaar biometric is locked. Download the UIDAI update app: uidai-update.apk,scam,malicious_app,en
+Your Canara Bank account will be frozen today. Verify your details at canara-kyc-verify.online,scam,kyc_phishing,en
+"Electricity department: your meter is not updated, connection will be disconnected at 9 pm. Call our officer.",scam,utility_bill,en
+"Lucky customer! Your SIM won Rs 15 lakh in the Jio lucky draw. Pay Rs 6,500 tax to receive.",scam,lottery_prize,en
+"Instant loan Rs 50,000 in 10 minutes. No documents needed. Pay Rs 999 processing fee to get money.",scam,loan_app,en
+"Hi Dad, I lost my phone, this is my new number. Need Rs 8,000 urgently for my college fees, please send now.",scam,impersonation,en

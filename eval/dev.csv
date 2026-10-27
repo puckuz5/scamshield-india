@@ -1,0 +1,53 @@
+text,label,scam_type,lang
+"Good afternoon, I'm calling from the Narcotics Control Bureau. We intercepted a package sent using your identity. You need to cooperate on a video interrogation right now.",scam,digital_arrest,en
+"Your name has come up in a hawala investigation. Officers will verify your bank balance; move it to the escrow account we share for checking.",scam,digital_arrest,en
+"Hum Hyderabad police se hain. Aapke Aadhaar se 6 bank accounts khule hain jo money laundering me use hue. Video call par aaiye.",scam,digital_arrest,hinglish
+"सीबीआई अधिकारी बोल रहा हूँ, आपके खिलाफ वारंट है। कैमरा चालू रखें।",scam,digital_arrest,hi
+"Automated call: this number shall be deactivated by the Telecom department in the next 120 minutes. Press 1 now.",scam,trai_telecom,en
+"Aapki sim card band hone wali hai, TRAI ka notice aaya hai. Officer se baat karein.",scam,trai_telecom,hinglish
+"Hi, I'm interested in your fridge listing. I've initiated the payment — just put your PIN on the request so it gets credited to you.",scam,upi_collect_qr,en
+"Paisa galti se tumhare number pe chala gaya, 7000. Plz wapas kar do, mera ghar ka rent hai.",scam,upi_collect_qr,hinglish
+"To receive the insurance claim amount, scan this code from your GPay app.",scam,upi_collect_qr,en
+"Smart money club: members made 40% this week. Daily assured profit. Ping admin on Telegram to join.",scam,investment,en
+"Exclusive IPO quota available only through our app. Download from the link and deposit to apply.",scam,investment,en
+"Cryptocurrency mining plan: invest 50k and earn 2 lakh in a month, guaranteed.",scam,investment,en
+"Hi! Flexible online job, 20 mins a day. Subscribe to YouTube channels and earn up to Rs 4000/day. Interested? Reply YES.",scam,task_job,en
+"Aapne 3 task complete kiye, 450 rupaye mil gaye. Ab VIP task ke liye 5000 deposit kijiye.",scam,task_job,hinglish
+"Earn Rs 1,200 per day writing Google reviews for hotels. HR: whatsapp only.",scam,task_job,en
+"Traffic violation notice. Fine pending. Get the challan app here to pay before court date: challan-gov.apk",scam,malicious_app,en
+"Our technician will fix your refund. Please download RustDesk and read me the ID.",scam,malicious_app,en
+"Shaadi ka card bheja hai, khol ke dekho: invitation.apk",scam,malicious_app,hinglish
+"Dear user your PAN card will be deactivated tonight. Update now on pan-update-portal.site to avoid penalty.",scam,kyc_phishing,en
+"Bank se bol raha hoon, aapke card pe 5000 ka transaction hua hai. Cancel karne ke liye OTP bata do.",scam,kyc_phishing,hinglish
+"Your SBI credit card reward points 9,450 expire tomorrow. Redeem: sbicard-rewards.click",scam,kyc_phishing,en
+"Notice: Electricity connection of your house will be cut at 10 pm tonight. Contact our officer on WhatsApp 9811122233 to update bill.",scam,utility_bill,en
+"Light ka bill update nahi hua, aaj raat connection kat jayega. Officer se baat karo.",scam,utility_bill,hinglish
+"Amazon anniversary lucky draw: your number won a Hyundai Creta. Pay Rs 8,500 registration to claim.",scam,lottery_prize,en
+"लॉटरी में आपका 50 लाख का इनाम निकला है। टैक्स जमा करें।",scam,lottery_prize,hi
+"Loan sanctioned Rs 2 lakh, no documents, no CIBIL. Pay file charges first.",scam,loan_app,en
+"Hey this is Priya, I changed my number. Can you urgently send 10k? I'll explain later.",scam,impersonation,en
+"Mama main hospital me hoon accident hua hai, paise bhejo jaldi isi number pe.",scam,impersonation,hinglish
+"Your login OTP is 772910. It is valid for 3 minutes. Never share your OTP with anyone. -Kotak Bank",legit,none,en
+"Rs 450.00 debited from a/c XX9921 for UPI txn to ZOMATO. Not you? Call 1800 1080. -SBI",legit,none,en
+"Your BSES bill for October is Rs 2,104. Pay before 15 Nov on the BSES app to avoid late fee.",legit,none,en
+"Hello, this is a reminder from Delhi Police: lock your car and keep valuables out of sight during festivals.",legit,none,en
+"We are pleased to invite you for the second round interview for the Associate Data Scientist position. Details are in your email.",legit,none,en
+"Hi, I'm from the HR team at Paytm. Could you share a good time for a 15-minute call about your application?",legit,none,en
+"Zerodha: Your order to buy 10 shares of INFY has been executed at Rs 1,520.",legit,none,en
+"Your KYC is complete. Thank you for updating your details at the branch. -Canara Bank",legit,none,en
+"TRAI tip: register on DND to stop promotional calls. Visit trai.gov.in for details.",legit,none,en
+"Received Rs 300 from Rohan via UPI. -Paytm",legit,none,en
+"Kal 10 baje lab hai, practical file le aana.",legit,none,hinglish
+"Beta khana kha liya? Call karna free ho ke.",legit,none,hinglish
+"Your parcel from Myntra will be delivered today between 2-6 pm.",legit,none,en
+"Your appointment at the passport office is confirmed for 4 Nov, 10:30 am. Carry original documents.",legit,none,en
+"Your Swiggy Instamart order has been refunded to your UPI account.",legit,none,en
+"Dear student, the semester fee payment portal is open till 10 Nov on the official college website.",legit,none,en
+"Your car insurance renewal is due on 20 Nov. Renew on the official ACKO app.",legit,none,en
+"आपका गैस सिलेंडर बुक हो गया है। डिलीवरी 2 दिन में।",legit,none,hi
+"मेरी ट्रेन लेट है, 9 बजे तक पहुंचूंगा।",legit,none,hi
+"Your Google account was signed in from a new Windows device. If this was you, ignore this.",legit,none,en
+"Your LinkedIn job alert: 12 new Machine Learning Engineer jobs in Delhi.",legit,none,en
+"Congratulations, you won the college coding hackathon! Collect your certificate on Monday.",legit,none,en
+"Hi, I'm interested in your scooter. Can I see it tomorrow evening and pay cash?",legit,none,en
+"Your Groww SIP of Rs 2,000 is successful.",legit,none,en
