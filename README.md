@@ -30,7 +30,7 @@ For every message you get:
 ```mermaid
 flowchart LR
     A[Text / Screenshot / Call] -->|OCR / Whisper| B[Message text]
-    B --> C[Rule engine<br/>35 red-flag rules<br/>EN · HI · Hinglish]
+    B --> C[Rule engine<br/>34 red-flag rules<br/>EN · HI · Hinglish]
     B --> D[Link, UPI ID &<br/>phone forensics]
     B --> E[ML classifier<br/>TF-IDF word+char<br/>+ LogReg]
     C & D & E --> F[Risk fusion<br/>noisy-OR + guardrails]
@@ -90,7 +90,7 @@ python -m eval.evaluate test             # reproduce the numbers above
 
 ```
 scamshield/
-  signals.py      35 red-flag rules (EN/HI/Hinglish), negation handling
+  signals.py      34 red-flag rules (EN/HI/Hinglish), negation handling
   links.py        URL / UPI ID / phone forensics, look-alike domain detection
   classifier.py   TF-IDF (word + char n-grams) + logistic regression
   engine.py       risk fusion → verdict, scam type, advice
