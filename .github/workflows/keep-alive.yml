@@ -1,0 +1,62 @@
+name: Keep Streamlit app awake
+
+# Opens the live app in a real (headless) browser every 2 hours so
+# Streamlit Community Cloud never puts it to sleep. If it is already
+# asleep, it clicks the "wake up" button.
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"   # every 2 hours (UTC), at :23
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: read
+
+jobs:
+  visit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      APP_URL: https://scamshield-india-hv3ufivesv52dtdy8yswey.streamlit.app/
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright + Chromium
+        run: |
+          npm init -y > /dev/null
+          npm install playwright@1.47.2
+          npx playwright install --with-deps chromium
+
+      - name: Visit the app
+        run: |
+          cat > visit.mjs <<'JS'
+          import { chromium } from 'playwright';
+          const url = process.env.APP_URL;
+          const browser = await chromium.launch();
+          const page = await browser.newPage();
+          await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 90000 });
+          
+          async function findInFrames(text) {
+            for (const f of page.frames()) {
+              try { if (await f.getByText(text, { exact: false }).count()) return f; } catch {}
+            }
+            return null;
+          }
+          
+          let ok = false;
+          for (let i = 0; i < 36; i++) {            // up to ~3 minutes
+            const wake = await findInFrames('get this app back up');
+            if (wake) {
+              console.log('App was asleep - clicking wake button');
+              await wake.getByRole('button', { name: /get this app back up/i }).first().click();
+            }
+            if (await findInFrames('Check for scam')) { ok = true; break; }
+            await page.waitForTimeout(5000);
+          }
+          console.log(ok ? `Awake: ${url}` : `App did not finish loading: ${url}`);
+          await browser.close();
+          if (!ok) process.exit(1);
+          JS
+          node visit.mjs
