@@ -4,7 +4,7 @@
 
 India loses thousands of crores a year to "digital arrest" calls, fake KYC links, UPI PIN tricks and task-job scams. Most victims aren't careless. They just get a message at the wrong moment, and nobody is around to say *"wait, that's a known scam."* ScamShield is that person.
 
-> **Demo:** _add your Streamlit Cloud link here_  ·  **Built by** [Ketan Gupta](https://www.linkedin.com/in/ketangupta05)
+> **Demo:** [Try it live](https://scamshield-india-hv3ufivesv52dtdy8yswey.streamlit.app/)  ·  **Built by** [Ketan Gupta](https://www.linkedin.com/in/ketangupta05)
 
 ---
 
@@ -35,7 +35,7 @@ flowchart LR
     B --> E[ML classifier<br/>TF-IDF word+char<br/>+ LogReg]
     C & D & E --> F[Risk fusion<br/>noisy-OR + guardrails]
     F --> G[BM25 retrieval over<br/>official advisories]
-    G --> H[LLaMA 3.3 via Groq<br/>JSON explanation]
+    G --> H[gpt-oss-120b via Groq<br/>JSON explanation]
     H --> I{Hallucination<br/>guard}
     I --> J[Verdict · highlighted red flags ·<br/>advice · sources · family alert]
 ```
