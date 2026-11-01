@@ -24,7 +24,7 @@ from dataclasses import dataclass, field
 from . import engine, taxonomy
 from .kb import Chunk, get_kb
 
-DEFAULT_MODEL = os.environ.get("SCAMSHIELD_MODEL", "llama-3.3-70b-versatile")
+DEFAULT_MODEL = os.environ.get("SCAMSHIELD_MODEL", "openai/gpt-oss-120b")
 
 SYSTEM = """You are ScamShield, an assistant that explains whether a message received in India is a scam.
 You are given: the message, findings from a rule-based + ML detector, and excerpts from official advisories (each with an id).
