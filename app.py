@@ -87,7 +87,7 @@ with st.sidebar:
     st.markdown("---")
     has_key = bool(os.environ.get("GROQ_API_KEY"))
     st.markdown(
-        f"**AI explanations:** {'on (LLaMA 3.3 via Groq)' if has_key else 'off — rule + ML engine only'}  \n"
+        f"**AI explanations:** {'on (gpt-oss-120b via Groq)' if has_key else 'off — rule + ML engine only'}  \n"
         "**Privacy:** messages are not stored. "
         + ("With AI explanations on, the message text is sent to Groq to generate the explanation." if has_key else "")
     )
@@ -249,7 +249,7 @@ if st.button(L["check"], type="primary", use_container_width=True, disabled=not 
             f"- Rule engine risk: **{a.rule_risk:.2f}** ({len(a.hits)} red-flag rules matched)\n"
             f"- ML classifier scam probability: **{a.model_prob:.2f}**\n"
             f"- Final risk: **{a.risk:.2f}** → {verdict}\n"
-            f"- AI explanation: {'LLaMA 3.3 via Groq, checked by the hallucination guard' if ex.used_llm else 'off (explanation built from the rule engine)'}"
+            f"- AI explanation: {'gpt-oss-120b via Groq, checked by the hallucination guard' if ex.used_llm else 'off (explanation built from the rule engine)'}"
         )
         for g in ex.guard_log:
             st.markdown(f"  - 🛡️ guard: {g}")
